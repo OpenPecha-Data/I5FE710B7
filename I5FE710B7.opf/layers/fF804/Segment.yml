@@ -1,0 +1,104 @@
+id: 4a7e5d0509b3472aa2e2ea94a63b4bf9
+annotation_type: Segment
+revision: '00001'
+annotations:
+  7a8fcac7520f40dd8b686083bd7d58bc:
+    span:
+      start: 0
+      end: 116
+    metadata: {}
+  90d2e4e38a2240f08f4ea8a561b13649:
+    span:
+      start: 119
+      end: 236
+    metadata: {}
+  b0bc86116a1e4811a67e9afa65649e38:
+    span:
+      start: 239
+      end: 363
+    metadata: {}
+  c8d07342af3b461e8c2cfbf8fd733b72:
+    span:
+      start: 366
+      end: 483
+    metadata: {}
+  739c66663f7d4616ba637a68256c02be:
+    span:
+      start: 486
+      end: 596
+    metadata: {}
+  84b133f25b9241b18d656128dc2fb8ec:
+    span:
+      start: 599
+      end: 719
+    metadata: {}
+  3a03b3f1f9e74fd5a1ace704697096d9:
+    span:
+      start: 722
+      end: 835
+    metadata: {}
+  ff128954597d45a0ac079532134005aa:
+    span:
+      start: 838
+      end: 954
+    metadata: {}
+  85ce3fe62392460595f66253329e98c0:
+    span:
+      start: 957
+      end: 1076
+    metadata: {}
+  547327e0fa2048a0be1b5a6d4905c474:
+    span:
+      start: 1079
+      end: 1195
+    metadata: {}
+  96321ba93f6342519f3bfe1e6c9cf54e:
+    span:
+      start: 1198
+      end: 1311
+    metadata: {}
+  3cf5e29a56ef403c836292def14f3993:
+    span:
+      start: 1314
+      end: 1429
+    metadata: {}
+  af62a386b5914369a3aac96530a37a48:
+    span:
+      start: 1432
+      end: 1548
+    metadata: {}
+  2554183fcd7a4815b9e0a8768d2965ee:
+    span:
+      start: 1551
+      end: 1674
+    metadata: {}
+  d178ba9a3ad347878d0fb13d3788c139:
+    span:
+      start: 1677
+      end: 1793
+    metadata: {}
+  6e3607c488e447f8a5c3cdeb47216818:
+    span:
+      start: 1796
+      end: 1907
+    metadata: {}
+  b55dddbb15ec4df88d1a465a3c50f966:
+    span:
+      start: 1910
+      end: 2027
+    metadata: {}
+  dbf498c6af5c4121a2f01822b8c7db61:
+    span:
+      start: 2030
+      end: 2154
+    metadata: {}
+  9b0005a2aed44520966727c3e5ec6032:
+    span:
+      start: 2157
+      end: 2280
+    metadata: {}
+  9554fc2219c04256a0babe17cd3eae86:
+    span:
+      start: 2283
+      end: 2399
+    metadata: {}
